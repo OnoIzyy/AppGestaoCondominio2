@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\izian\\OneDrive\\Documentos\\Poo e linguagem\\AppGestaoCondominio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C184600-B4F0-4A80-AB47-8B10A28A2605}|AppGestaoCondominio.csproj|c:\\users\\izian\\onedrive\\documentos\\poo e linguagem\\appgestaocondominio\\regrasdenegocio\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C184600-B4F0-4A80-AB47-8B10A28A2605}|AppGestaoCondominio.csproj|solutionrelative:regrasdenegocio\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C184600-B4F0-4A80-AB47-8B10A28A2605}|AppGestaoCondominio.csproj|c:\\users\\izian\\onedrive\\documentos\\poo e linguagem\\appgestaocondominio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C184600-B4F0-4A80-AB47-8B10A28A2605}|AppGestaoCondominio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\izian\\OneDrive\\Documentos\\Poo e linguagem\\AppGestaoCondominio\\RegrasDeNegocio\\Pessoa.cs",
+              "RelativeDocumentMoniker": "RegrasDeNegocio\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\izian\\OneDrive\\Documentos\\Poo e linguagem\\AppGestaoCondominio\\RegrasDeNegocio\\Pessoa.cs",
+              "RelativeToolTip": "RegrasDeNegocio\\Pessoa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:25:37.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\izian\\OneDrive\\Documentos\\Poo e linguagem\\AppGestaoCondominio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\izian\\OneDrive\\Documentos\\Poo e linguagem\\AppGestaoCondominio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:24:25.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
